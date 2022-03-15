@@ -61,3 +61,15 @@ hi-tech
 > We are very hi-tech.
 
 Typical
+
+simplicity
+
+> n. 简单, 简明
+
+variation
+
+> there are some variations of xxx
+
+derive
+
+> 衍生出, 派生出

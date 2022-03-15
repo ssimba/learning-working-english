@@ -80,10 +80,24 @@
 > 
 > She is capable of doing this job.
 
-**when is it for**
+**when is it for?**
 
-> 什么时候用
+> 什么时候用?
 
 **Was he any help?**
 
 > 他帮上忙了吗?
+
+**separate into**
+
+> Domain layer in the startup template is separated into two parts.
+
+**for the sake of**
+
+> 为了...目的, 利益
+> 
+> This tutorial leaves the entity properties with public get/set for the sake of simplicity
+
+relate with
+
+> 与...关联
