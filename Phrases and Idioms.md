@@ -101,3 +101,23 @@
 relate with
 
 > 与...关联
+
+Looking forward to hearing from you soon. Kind regards. 
+
+double-booked
+
+> 重复预订
+
+Is there anything I can do?
+
+Can I give you a hand?
+
+Give me a shout if you need anything!
+
+I really mean it.
+
+> 我是认真的.
+
+make up for
+
+> 弥补...
