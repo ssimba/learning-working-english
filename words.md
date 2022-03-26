@@ -73,3 +73,43 @@ variation
 derive
 
 > 衍生出, 派生出
+
+speculation
+
+> 猜测
+
+flute
+
+> 长笛
+
+optimistic
+
+> a. 乐观的
+
+magnificent
+
+> a. 壮丽的
+
+ignorance
+
+> n. 无知
+
+cast
+
+> v. 掷, 投, 抛, 猛扔
+
+jogging
+
+> n. 慢跑
+
+throughout
+
+> 到处, 贯穿, 遍及, 自始至终
+
+even
+
+> adv. 甚至, 即使
+> 
+> adj. 平的, 平滑的, 平坦的, 双数的
+> 
+> v. 使变平, 使平坦

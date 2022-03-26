@@ -121,3 +121,23 @@ I really mean it.
 make up for
 
 > 弥补...
+
+at any rate
+
+> 无论如何, 不管怎样
+
+on the air
+
+> 在广播
+
+blow off steam
+
+> 发泄情感
+
+even if
+
+> 即使...
+
+serve as
+
+> 作为, 充当, 担任
