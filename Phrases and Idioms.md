@@ -141,3 +141,17 @@ even if
 serve as
 
 > 作为, 充当, 担任
+
+large-scale
+
+> 大规模的
+
+be considered as
+
+> 被认为是
+
+in a loosly coupled manner
+
+> 以松散耦合的方式
+
+essential
