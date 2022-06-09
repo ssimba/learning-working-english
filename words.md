@@ -197,3 +197,85 @@ serializability
 transferrable
 
 > 可转移的
+
+simultaneously
+
+> adv. 同时地
+> 
+> All of them have similar features such as viewing multiple files simultanouesly
+
+prominent
+
+> a. 重要的, 注明的, 显眼的, 突出的
+> 
+> but each one has a prominent feature or advantage that might make us consider using it.
+
+keystroke
+
+> n. 击键
+> 
+> v. 用键盘输入
+
+delimiter
+
+> n. 分隔符
+
+specify
+
+> v. 详细说明, 具体说明, 明确指出
+
+substitution
+
+> n. 代替, 替换
+
+replacement
+
+> n. 代替, 用于取代的人或物
+> 
+> Here the "s" specifies the substitution operation. The "unix" is the search pattern and the "linux" is the replacement string.
+
+parenthesize
+
+> v. 加上括弧
+> 
+> Parenthesize first character of each word
+
+parenthesis
+
+> n. 圆括号
+> 
+> This sed example prints the first character of each word in parenthesis
+
+temporarily
+
+> adv. 暂时地, 临时地
+
+primarily
+
+> adv. 主要地, 首要地,根本地
+
+resilient
+
+> n. resiliency
+> 
+> adj. (人或动物)对困境有承受力的, 有复原力的; (物质或物体)有弹性的, 有回弹力的
+> 
+> *providing resiliency against server failure*
+
+sketch
+
+> n. 素描, 草图, 速写, 粗样, 初稿, 简述.
+> 
+> *Here is a sketch of an app that will not work reliably because the callback modifies a global variable*
+
+footprint
+
+> n. 占用空间, 覆盖区
+> 
+> *This method doesn't increase the memory footprint of the app*
+
+performant
+
+> a. (计算机)性能好的, 运作良好的
+> 
+> *The "signaling" is performant because allows the expensive computation to only take up one process and be performed once.*
